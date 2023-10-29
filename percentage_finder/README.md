@@ -39,3 +39,5 @@ The script will output the percentage of words containing the specified characte
 ```
 The percentage of words containing 'ae' is: 25.00%
 ```
+
+You have to give those chars өӨңҢүҮ  in our case
